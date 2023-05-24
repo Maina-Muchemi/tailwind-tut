@@ -1,0 +1,19 @@
+* {
+    margin: 3rem;
+    padding: 2em;
+    box-sizing: border-box;
+}
+
+
+
+
+ .container {
+
+    border: 5px dashed black;
+    
+    font-size: 5rem;
+    margin: 2em;
+    padding: 1.5em;
+ 
+}
+
